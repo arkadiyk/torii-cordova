@@ -1,12 +1,12 @@
 {
   "name": "torii-cordova",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Addon to use torii authentication in Cordova using SafariViewController.",
   "keywords": [
-    "ember-addon"
+    "ember-addon", "torii", "authentication", "cordova"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Arkadiy Kraportov",
   "directories": {
     "doc": "doc",
     "test": "tests"
